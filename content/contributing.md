@@ -26,6 +26,9 @@
 4. **Commit your changes**
 5. **Add yourself** to `content/contributors.yaml`. You deserve it!
 6. **Create a new pull request**
+
+![alt text](image-1.png)
+
 7. **Thank you for contributing** to Index47! Please wait for your changes to be reviewed.
 
 ## Contributing via Local Clone
