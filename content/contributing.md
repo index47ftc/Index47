@@ -11,13 +11,13 @@
 3. **Make your changes**
     - You can edit descriptions in the `terms` folder.
     - You can create a new term by creating a new file in the `terms` folder.
-    - File names should be `flatcase.md` (all lowercase, no spaces or delimeters).
+    - File names should be `flatcase.md` (all lowercase, no spaces or delimiters).
     - Add the following to the top of a new file:
 
     ```yaml
     ---
     title: Title Here
-    alises: [alternative1, alternative2]
+    aliases: [alternative1, alternative2]
     # the last line is optional
     # you can put queries other than the title that will result in this page.
     ---
@@ -53,13 +53,13 @@
 6.  **Make your changes** in the `content` folder.
     - You can edit descriptions in the `terms` folder.
     - You can create a new term by creating a new file in the `terms` folder.
-    - File names should be `flatcase.md` (all lowercase, no spaces or delimeters).
+    - File names should be `flatcase.md` (all lowercase, no spaces or delimiters).
     - Add the following to the top of a new file:
 
     ```yaml
     ---
     title: Title Here
-    alises: [alternative1, alternative2]
+    aliases: [alternative1, alternative2]
     # the last line is optional
     # you can put queries other than the title that will result in this page.
     ---

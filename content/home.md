@@ -4,7 +4,7 @@ Index47 was founded in May 2026 by programmers from [FTC 13100](https://ftcscout
 
 ## User Guide
 
-Simply in a search term or acronym in the search bar and click on your desired page. You can enter another search query at any time. Click on the Index47 logo to return to this page.
+Simply type in a search term or acronym in the search bar and click on your desired page. You can enter another search query at any time. Click on the Index47 logo to return to this page.
 
 ## Contributing
 
