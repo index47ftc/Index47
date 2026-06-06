@@ -9,7 +9,7 @@
 ## Steps
 
 1.  **Fork the repo** [the repository](https://github.com/Index47FTC/Index47)
-2.  **Clone your fork** in your code editor/IDE of choice or by running `git clone https://github.com/YOUR_USERNAME/Index47.git`.
+2.  **Clone your fork** in your code editor/IDE of choice (not needed for github editor, just click `.`) or by running `git clone https://github.com/YOUR_USERNAME/Index47.git`.
 3.  **Open the repo** in your code editor/IDE of choice,
 4.  **Install the dependencies** by running `bun install`.
 5.  **Preview the website** locally by running `bun run dev`.
