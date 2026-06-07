@@ -2,14 +2,14 @@
 
 - Have a [GitHub](https://github.com/) account .
 - Have [Bun](https://bun.sh) installed, this step is optional but necessary for UI changes.
-- Have a code editor/IDE installed, GitHub editor is recommended click `.`
+- Have a code editor/IDE installed, GitHub editor is recommended simply click `.` on the repository
 - Feel free to ask developers in the [discord](https://discord.gg/e7F3Ku7Xuu) for help with these steps.
 - Usages of AI for content is strictly prohibited and will not be accepted
 
 ## Steps
 
 1.  **Fork the repo** [the repository](https://github.com/Index47FTC/Index47)
-2.  **Clone your fork** in your code editor/IDE of choice (not needed for github editor, just click `.`) or by running `git clone https://github.com/YOUR_USERNAME/Index47.git`.
+2.  **Clone your fork** in your code editor/IDE of choice (not needed for github editor) or by running `git clone https://github.com/YOUR_USERNAME/Index47.git`.
 3.  **Open the repo** in your code editor/IDE of choice,
 4.  **Install the dependencies** by running `bun install`.
 5.  **Preview the website** locally by running `bun run dev`.
