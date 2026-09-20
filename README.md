@@ -6,7 +6,7 @@ For all details about this repository, including contributing, review the conten
 
 ## Developers
 
-[**Sid Shah**](https://github.com/siddharth-shah121) Founder & Lead Developer\
+[**Sid Shah**](https://github.com/knowpa1n) Founder & Lead Developer\
  [**Davis Luxenberg**](https://github.com/BeepBot99) Website Lead\
  [**Ishika Saini**](https://github.com/ish-that-a-wish) Operations Lead\
  [**Mohit Patil**](https://github.com/MomohitPatil) Workflow Lead\
